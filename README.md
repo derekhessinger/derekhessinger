@@ -27,9 +27,9 @@ I am a sophomore at Colby College studying Computer Science and Mathematics <img
 
 - :telescope: I’m currently learning Natural Language Processing techniques
 
-- :seedling: Exploring implementing automation to help care for and track the growth of house plants
+- :seedling: Exploring automation to help care for and track the growth of house plants
 
-- :zap: In my free time, I like to read technical papers and experiment with new languages!
+- :zap: In my free time, I like to explore with new AI models!
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-derekhessinger-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/derek-hessinger/)
 
