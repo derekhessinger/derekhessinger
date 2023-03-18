@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/02/5d/81/025d814ad6db440e758b1a525a411f6f.gif" width="200"/>
+  <img src="https://charlottesvilleschools.org/wp-content/uploads/2018/05/programming1-600x270.jpg" width="200"/>
   <div id="badges">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
