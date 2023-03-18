@@ -25,7 +25,7 @@ I am a sophomore at Colby College studying Computer Science and Mathematics <img
 
 - 😄 Pronouns: He/Him
 
-- :telescope: I’m currently learning Natural Language Processing techniques
+- :telescope: I’m currently learning data analysis and visualization techniques
 
 - :seedling: Exploring automation to help care for and track the growth of house plants
 
