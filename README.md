@@ -21,15 +21,7 @@
 
 ### :man_technologist: About Me :
 
-I am a sophomore at Colby College studying Computer Science and Mathematics <img src="https://media.giphy.com/media/gniz0qUijH8T7yRQWR/giphy.gif" width="30">
-
-- 😄 Pronouns: He/Him
-
-- :telescope: I’m currently learning data analysis and visualization techniques
-
-- :seedling: Exploring automation to help care for and track the growth of house plants
-
-- :zap: In my free time, I like to explore with new AI models!
+I am a junior at Colby College studying Computer Science and Mathematics <img src="https://media.giphy.com/media/gniz0qUijH8T7yRQWR/giphy.gif" width="30">
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-derekhessinger-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/derek-hessinger/)
 
