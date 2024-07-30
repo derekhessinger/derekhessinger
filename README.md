@@ -17,9 +17,9 @@
 
 ---
 
-### :man_technologist: About Me :
+### About Me :
 
-I am a senior at Colby College studying Computer Science and Mathematics <img src="https://media.giphy.com/media/gniz0qUijH8T7yRQWR/giphy.gif" width="30">
+I'm a senior at Colby College studying Computer Science and Mathematics <img src="https://media.giphy.com/media/gniz0qUijH8T7yRQWR/giphy.gif" width="30">
 
 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-derekhessinger-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/derek-hessinger/)
 
