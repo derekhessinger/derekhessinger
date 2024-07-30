@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400" height="200"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFlOHpxeXY0eWVkOWNjYW5jcTBzZ2ltbjJxdDFmeWc0ajFlM2xucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ujvhLZGsTajgQ/giphy.gif" width="400" height="200"/>
 </div>
 
 ---
@@ -20,6 +20,8 @@
 ### About Me :
 
 I'm a senior at Colby College studying Computer Science and Mathematics <img src="https://media.giphy.com/media/gniz0qUijH8T7yRQWR/giphy.gif" width="30">
+
+Interested in outdoor technology, mobile development, machine learning, firmware design 🌱
 
 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-derekhessinger-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/derek-hessinger/)
 
