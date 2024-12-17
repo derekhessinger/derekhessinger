@@ -21,7 +21,7 @@
 
 I'm a senior at Colby College studying Computer Science and Mathematics
 
-Interested in outdoor technology, mobile development, machine learning, firmware design
+Interested in outdoor/health technology, mobile development, machine learning, firmware design
 
 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-derekhessinger-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/derek-hessinger/)
 
